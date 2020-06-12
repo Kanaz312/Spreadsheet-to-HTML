@@ -1,0 +1,45 @@
+<p>&nbsp;</p>
+
+<p>In keeping with AASHE STARS criteria, Cal Poly proudly promotes CALL, or Campus As a Living Lab, to encourage students to participate in projects related to sustainability on campus. Whether it is teaching students in theater classes how to use materials that can be upcycled or having an engineering class assess monthly energy and water data for campus, Cal Poly has a robust portfolio of sustainability-related CALL projects. Living Lab projects can belong to one or more of the following categories:</p>
+
+<table border="1" cellpadding="1" cellspacing="1" height="131" width="717">
+	<tbody>
+		<tr>
+			<td>Air and Climate</td>
+			<td>Water</td>
+			<td>Buildings</td>
+		</tr>
+		<tr>
+			<td>Energy</td>
+			<td>Coordination and Planning</td>
+			<td>
+			<p>Diversity and Affordability</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Food and Dining</td>
+			<td>Grounds</td>
+			<td>Investment and Finance</td>
+		</tr>
+		<tr>
+			<td>Public Engagement</td>
+			<td>Purchasing</td>
+			<td>Wellbeing and Work</td>
+		</tr>
+		<tr>
+			<td>Transportation</td>
+			<td>Waste</td>
+			<td>Other (arts, culture, etc)</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>You can find more information about Campus As a Living Lab at the STARS website <a href="https://stars.aashe.org/resources-support/help-center/academics/campus-as-a-living-laboratory-2/" target="_blank">here</a>. If you want to see information about CALL at Cal Poly, you can view our STARS report <a href="https://reports.aashe.org/institutions/california-polytechnic-state-university-ca/report/2019-09-19/AC/curriculum/AC-8/" target="_blank">here</a>. Below is a listing of many of Cal Poly's CALL projects. If you believe you have a project that is not listed but may qualify, you can fill out the form <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=2wING578lUSVNx03nMoq540-0zzNY1RCgcpgO-osQ7RUNERIQzU1MElMSFRMMDROOEdUNjhUM0ZHSCQlQCN0PWcu" target="_blank">here</a> to have your project added to the portfolio.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<hr />
+
+<!-- END____________________________________________________________________________________________________HEADER -->
